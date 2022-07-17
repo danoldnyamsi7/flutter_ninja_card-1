@@ -1,3 +1,5 @@
+### Basic flutter App from Net Ninja 2019 flutter tutorial
+
 # ninja_id
 
 A new Flutter project.
